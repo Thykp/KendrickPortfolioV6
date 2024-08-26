@@ -8,11 +8,11 @@ const Hero = () => {
   return (
     <>
       <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
-        <img
+        {/* <img
           src={bwmap}
           alt="world map"
           className="w-full h-full sm:block hidden object-cover"
-        />
+        /> */}
       </div>
       <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
         <img

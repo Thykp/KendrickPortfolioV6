@@ -39,6 +39,7 @@ import postgresql from './tech/postgresql.png';
 import rubyrails from './tech/rubyrails.png';
 import python from './tech/python.png';
 import php from './tech/php.png';
+import vuejs from './tech/vue.png';
 
 import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
@@ -106,4 +107,5 @@ export {
   spruce,
   wingo,
   truly,
+  vuejs,
 };
